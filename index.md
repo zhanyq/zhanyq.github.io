@@ -4,4 +4,5 @@
 
 layout: page
 ---
-This is the homepage.
+
+A postdoc working on the epidemiology of neurodegenerative diseases: Alzheimer's disease, Parkinson's diseases, amyotrophic lateral sclerosis.
