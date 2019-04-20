@@ -16,7 +16,7 @@
 title: Y. Zhan
 email: yiqiang.zhan@ki.se
 description: >- # this means to ignore newlines until "baseurl:"
-Powered by [jekyll](jekyllrb.com).
+Powered by jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EpiSurv
