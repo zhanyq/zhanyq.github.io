@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is my personal website which is hosted on [zhanyq.github.io](zhanyq.github.io)
+This is my personal website which is hosted on [zhanyq.github.io](https://zhanyq.github.io)
