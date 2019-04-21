@@ -29,6 +29,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - posts.md
   - publications.md
   - gwas.md
   - links.md
