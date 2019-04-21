@@ -5,4 +5,11 @@
 layout: page
 ---
 
-A postdoc working on the epidemiology of neurodegenerative diseases: Alzheimer's disease, Parkinson's diseases, amyotrophic lateral sclerosis.
+A postdoc working on the epidemiology of neurodegenerative diseases: **Alzheimer's disease, Parkinson's diseases, amyotrophic lateral sclerosis**.
+
+
+Currently, I'm working on these data:
+* GWAS summary statistics
+* Swedish Register-based cohorts
+* UK BioBank
+* Pro-Act Trial
