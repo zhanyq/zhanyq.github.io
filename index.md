@@ -5,7 +5,7 @@
 layout: page
 ---
 
-A postdoc working on the epidemiology of neurodegenerative diseases: **Alzheimer's disease, Parkinson's diseases, amyotrophic lateral sclerosis**.
+Our NeuroEpiLab are working on the epidemiology of neurodegenerative disorders: **Cognitive decline, Alzheimer's disease, Parkinson's diseases, amyotrophic lateral sclerosis**.
 
 
 Currently, I'm working on these data:
