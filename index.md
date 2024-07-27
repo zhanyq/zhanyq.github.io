@@ -5,11 +5,6 @@
 layout: page
 ---
 
-Our NeuroEpiLab are working on the epidemiology of neurodegenerative disorders: **Cognitive decline, Alzheimer's disease, Parkinson's diseases, amyotrophic lateral sclerosis**.
+Our NeuroEpiLab are working on the epidemiology of neuropsychiatric disorders: **Cognitive decline, Alzheimer's disease, Parkinson's diseases, Mental Health**.
 
 
-Currently, I'm working on these data:
-* GWAS summary statistics
-* Swedish Register-based cohorts
-* [UK BioBank](https://www.ukbiobank.ac.uk/)
-* [Pro-Act Trial](https://nctu.partners.org/ProACT/Home/Index)
