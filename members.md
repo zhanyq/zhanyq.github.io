@@ -6,10 +6,16 @@ permalink: /members/
 
 **PhD Students**
 Yue Xu (2024-2028)
+
 Qi Liu (2023-2028)
+
 Qianqian Ji (2022-2027)
+
 Meijie Ye (2021-2024)
-Johanna Sieurin (graduated in 2020)
+
+Yuxia Wei (2020-2024)
+
+Johanna Sieurin (2018-2020)
 
 **Master Students**
 Xiaogang Lv (2023-2026) 
