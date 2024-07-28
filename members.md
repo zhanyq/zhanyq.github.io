@@ -16,6 +16,10 @@ Meijie Ye (2021-2025)
 
 **硕士研究生**
 
+Xiaoping Huang (2024-2027)
+
+Ruitong Liao (2024-2027)
+
 Xiaogang Lv (2023-2026) 
 
 Qingya Zhao (2023-2026) 
@@ -26,10 +30,6 @@ Yaxian Meng (2022-2025)
 
 **已毕业研究生**
 
-Yuxia Wei (2020-2024, Karolinska Institutet，博士)
-
-Johanna Sieurin (2018-2020, Karolinska Institutet，博士)
-
 Yu Wang (2021-2024，硕士) 
 
 Yasi Zhang (2021-2024，硕士)
@@ -37,3 +37,7 @@ Yasi Zhang (2021-2024，硕士)
 Yan'An Zhu (2021-2024，硕士)
 
 Mattias Dal (2019-2020, Karolinska Institutet，硕士)
+
+Yuxia Wei (2020-2024, Karolinska Institutet，博士)
+
+Johanna Sieurin (2018-2020, Karolinska Institutet，博士)
