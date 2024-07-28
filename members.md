@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lab Members
+title: Lab Members 课题组成员
 permalink: /members/
 ---
 
-**PhD Students**
+**博士研究生**
 
 Yue Xu (2024-2028)
 
@@ -14,11 +14,7 @@ Qianqian Ji (2022-2027)
 
 Meijie Ye (2021-2024)
 
-Yuxia Wei (2020-2024, Karolinska Institutet)
-
-Johanna Sieurin (2018-2020, Karolinska Institutet)
-
-**Master Students**
+**硕士研究生**
 
 Xiaogang Lv (2023-2026) 
 
@@ -28,10 +24,16 @@ Aijie Zhang (2022-2025)
 
 Yaxian Meng (2022-2025) 
 
-Yu Wang (2021-2024) 
+**已毕业研究生**
 
-Yasi Zhang (2021-2024)
+Yuxia Wei (2020-2024, Karolinska Institutet，博士)
 
-Yan'An Zhu (2021-2024)
+Johanna Sieurin (2018-2020, Karolinska Institutet，博士)
 
-Mattias Dal (2019-2020, Karolinska Institutet)
+Yu Wang (2021-2024，硕士) 
+
+Yasi Zhang (2021-2024，硕士)
+
+Yan'An Zhu (2021-2024，硕士)
+
+Mattias Dal (2019-2020, Karolinska Institutet，硕士)
