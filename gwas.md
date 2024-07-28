@@ -4,7 +4,7 @@ title: Publications 论文
 permalink: /papers/
 ---
 
-#### 代表性论文
+#### 代表性论文 Selected Publications
 
 1. Qianqian Ji, Jingqi Chen, Yafei Li, Enxiang Tao, **Yiqiang Zhan**\*.
    Incidence and Prevalence of Alzheimer’s Disease in China: A Systematic Review and Meta-analysis.
