@@ -21,6 +21,4 @@ Contact: **zhanyq8@mail.sysu.edu.cn**
 
 * 2024.3 本科生Zhuochang Bi关于神经丝轻链顶论文被Science of the Total Environment (IF=8.2, 5年IF=9.9)接收
 
-* <font color=#FF4040>test</font>
-
 
