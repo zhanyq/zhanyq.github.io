@@ -30,8 +30,6 @@ permalink: /papers/
    Association between Volatile Organic Compounds and Serum Neurofilament Light Chain in US adults.
    **Science of the Total Environment**. 2024. 926:171893.
 
-7. Yuxia Wei, **Yiqiang Zhan** \* , Tuomi Tiinamaija, Josefin Edwall Lofvenborg, Sofia Carlsson. Birth weight, BMI in adulthood and latent autoimmune diabetes in adults: A Mendelian randomization study. **Diabetologia** 2022. 65(9):1510-1518.
-
 8. Elisa Longenitti, **Yiqiang Zhan** \* , Karin Wirdefeldt Fang Fang. Heart Rate, Intelligence in Adolescence, and Parkinson’s Disease Later in Life.
    **European J Epidemiology**. 2021; 36(10): 1055–1064.
 
@@ -49,8 +47,6 @@ permalink: /papers/
 
 13. **Yiqiang Zhan**, Ci Song, Robert Karlsson, Annika Tillander, Chandra A. Reynolds, Nancy L. Pedersen, Sara Hagg.
     Telomere length shortening and Alzheimer's disease: A Mendelian Randomization study.  **JAMA Neurology**. 2015,72(10):1202-1203.
-
-## 其他论文
 
 ## 2024
 
@@ -110,51 +106,53 @@ Journal of Global Health. 2024;14:04090
 
 ## 2023
 
-28. Xiaoping Huang, Chao Yi, Qianqian Ji, Yaxian Meng, Aijie Zhang, Chongguang Yang, Liqiong Zhou, Yiqiang Zhan.
+1. Xiaoping Huang, Chao Yi, Qianqian Ji, Yaxian Meng, Aijie Zhang, Chongguang Yang, Liqiong Zhou, **Yiqiang Zhan** \* .
 Association between Cytomegalovirus Infection and Cancer-related Mortality in US Adults.
 Cancer Epidemiology. 2023. 87:102487.
 
-29. Yi Teng, Danqi Huang, Ruixi Li, Chao Yi, Yiqiang Zhan.
+2. Yi Teng, Danqi Huang, Ruixi Li, Chao Yi, **Yiqiang Zhan** \* .
 Association between telomere length and risk of lung cancer in an Asian population: a Mendelian Randomization study.
 World Journal of Oncology 2023.14(4):277-284
 
-30. Huang H, Huang X, Liao J, Li Y, Su Y, Meng Y, Yiqiang Zhan.
+3. Huang H, Huang X, Liao J, Li Y, Su Y, Meng Y, **Yiqiang Zhan** \* .
 Sex-specific non-linear associations between body mass index and impaired pulmonary ventilation function in a community-based population: Longgang COPD study.
 Front Pharmacol 2023 Mar 9;14:1103573.
 
-31. Yanan Zhu, Yaxian Meng, Yasi Zhang, Ida K. Karlsson, Sara H"agg, Yiqiang Zhan.
+4. Yanan Zhu, Yaxian Meng, Yasi Zhang, Ida K. Karlsson, Sara Hagg, **Yiqiang Zhan** \* .
 Genetically Determined Telomere Length and Its Association with Chronic Obstructive Pulmonary Disease and Interstitial Lung Disease in Biobank Japan: A Mendelian Randomization Study.
 Heliyon. 2023. 10(1):e23415
 
-32. Yasi Zhang, Yanan Zhu, Meijie Ye, Yong Mao, Yiqiang Zhan.
+5. Yasi Zhang, Yanan Zhu, Meijie Ye, Yong Mao, **Yiqiang Zhan** \* .
 Telomere length and its association with systemic lupus erythematosus in an Asian population: A Mendelian randomization study.
 Lupus. 2023.
 
 ## 2022
 
-33. Danqi Huang, Siqi Lin, Juanting He, Qi Wang, Yiqiang Zhan.
+1. Yuxia Wei, **Yiqiang Zhan** \* , Tuomi Tiinamaija, Josefin Edwall Lofvenborg, Sofia Carlsson. Birth weight, BMI in adulthood and latent autoimmune diabetes in adults: A Mendelian randomization study. **Diabetologia** 2022. 65(9):1510-1518.
+
+2. Danqi Huang, Siqi Lin, Juanting He, Qi Wang, **Yiqiang Zhan** \* .
 Association between COVID-19 and telomere length: a bidirectional Mendelian randomization study.
 Journal of Medical Virology 2022. 94(11):5345-5353.
 
-34. Yasi Zhang, Aijie Zhang, Jianbang Xiang, Yiqiang Zhan.
+3. Yasi Zhang, Aijie Zhang, Jianbang Xiang, **Yiqiang Zhan** \*  .
 Perceived Stress and Cardiovascular Disease in a Community-Based Population.
 Heart and Mind, 2022.
 
-36. Yiqiang Zhan, Xiaoying Kang. Disentangling the Causal Effect of Telomere Length in Systemic Lupus Erythematosus Using Genetic Variants as Instruments. Arthritis & Rheumatology 2022.
+4. **Yiqiang Zhan** \* , Xiaoying Kang. Disentangling the Causal Effect of Telomere Length in Systemic Lupus Erythematosus Using Genetic Variants as Instruments. Arthritis & Rheumatology 2022.
 
-38. Meijie Ye, Yu Wang, Yiqiang Zhan. Genetic association of leukocyte telomere length with Graves' disease in Biobank Japan: a two-sample Mendelian randomization study. Front Immunology 2022.
+5. Meijie Ye, Yu Wang, **Yiqiang Zhan** \* . Genetic association of leukocyte telomere length with Graves' disease in Biobank Japan: a two-sample Mendelian randomization study. Front Immunology 2022.
 
-39. Sara Hagg, Yiqiang Zhan. Telomere research entering the big data era. Nat Aging 2022.
+6. Sara Hagg, **Yiqiang Zhan** \* . Telomere research entering the big data era. Nat Aging 2022.
 
 ## 2021
 
-38. J Sieurin, Yiqiang Zhan, N Pedersen, K Wirdefeldt. Neuroticism, smoking and the risk of Parkinson's disease. Journal of Parkinson's Disease 2021.
+1. J Sieurin,**Yiqiang Zhan** \* , N Pedersen, K Wirdefeldt. Neuroticism, smoking and the risk of Parkinson's disease. Journal of Parkinson's Disease 2021.
 
-39. Yiqiang Zhan, Sara H"agg. Association between Genetically Predicted Telomere Length and Facial Skin Aging in UK Biobank: a Mendelian Randomization Study. GeroScience. 2021
+2. **Yiqiang Zhan** \* , Sara Hagg. Association between Genetically Predicted Telomere Length and Facial Skin Aging in UK Biobank: a Mendelian Randomization Study. GeroScience. 2021
 
-40. Ruoqing Chen, Yiqiang Zhan. Telomere length and Parkinson's disease: A Mendelian randomization study. Neurobiology of Aging. 2020 July.
+3. Ruoqing Chen, **Yiqiang Zhan** \* . Telomere length and Parkinson's disease: A Mendelian randomization study. Neurobiology of Aging. 2020 July.
 
-41. Yiqiang Zhan, Mark Clements, Rosebud Roberts, Maria Vassilaki, Brooke Druliner, Lisa Boardman, Ronald Petersen, Chandra A. Reynolds, Nancy L Pedersen, Sara H"agg. Association of Telomere Length with General Cognitive Trajectories: a Meta-Analysis of Four Prospective Cohort Studies. Neurobiology of Aging, 2018, 69(9):111-116.
+4. **Yiqiang Zhan** \* , Mark Clements, Rosebud Roberts, Maria Vassilaki, Brooke Druliner, Lisa Boardman, Ronald Petersen, Chandra A. Reynolds, Nancy L Pedersen, Sara H"agg. Association of Telomere Length with General Cognitive Trajectories: a Meta-Analysis of Four Prospective Cohort Studies. Neurobiology of Aging, 2018, 69(9):111-116.
 
 
 
