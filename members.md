@@ -4,6 +4,12 @@ title: Lab Members 课题组成员
 permalink: /members/
 ---
 
+**博士后**
+
+Zhao Hu (2023-2025)
+
+Liqiong Zhou (2023-2025)
+
 **博士研究生**
 
 Yue Xu (2024-2028)
