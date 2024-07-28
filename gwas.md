@@ -144,7 +144,7 @@ Perceived Stress and Cardiovascular Disease in a Community-Based Population.
 
 6. Sara Hagg, **Yiqiang Zhan**\* . Telomere research entering the big data era. **Nat Aging** 2022.
 
-#### 2021
+#### 2012-2021 部分论文
 
 1. J Sieurin,**Yiqiang Zhan**\* , N Pedersen, K Wirdefeldt. Neuroticism, smoking and the risk of Parkinson's disease. **Journal of Parkinson's Disease** 2021.
 
