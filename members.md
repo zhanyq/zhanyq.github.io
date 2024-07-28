@@ -12,7 +12,7 @@ Qi Liu (2023-2028)
 
 Qianqian Ji (2022-2027)
 
-Meijie Ye (2021-2024)
+Meijie Ye (2021-2025)
 
 **硕士研究生**
 
