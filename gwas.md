@@ -41,15 +41,15 @@ permalink: /papers/
 10. **Yiqiang Zhan**\*, XR Liu, CA. Reynolds, NL Pedersen, S Hagg, MS Clements.
     Telomere Length and All-cause Mortality: A Between-within Twin Analysis using Generalised Survival Model. 
     **American Journal of Epidemiology**. 2018;187(10):2186-2191.
-    <span style="color:red">（博士毕业论文的一部份）</span>
+    <span style="color:red">（博士毕业论文的内容）</span>
 
 12. **Yiqiang Zhan**\*, Ida K Karlsson, Robert Karlsson, Annika Tillander, Chandra A Reynolds, Nancy L Pedersen, Sara Hagg.
     Exploring the Causal Pathway from Telomere Length to Coronary Heart Disease: A Network Mendelian Randomization Study. **Circulation Research**. 2017, 121(3):214-219.
-    <span style="color:red">（博士毕业论文的一部份）</span>
+    <span style="color:red">（博士毕业论文的一内容）</span>
 
 13. **Yiqiang Zhan**\*, Ci Song, Robert Karlsson, Annika Tillander, Chandra A. Reynolds, Nancy L. Pedersen, Sara Hagg.
     Telomere length shortening and Alzheimer's disease: A Mendelian Randomization study.  **JAMA Neurology**. 2015,72(10):1202-1203.
-    <span style="color:red">（博士毕业论文的一部份）</span>
+    <span style="color:red">（博士毕业论文的一内容）</span>
 
 #### 2024
 
@@ -111,23 +111,23 @@ Assessing and Projecting the Global Burden of Thyroid Cancer, 1990-2030: Analysi
 
 1. Xiaoping Huang, Chao Yi, Qianqian Ji, Yaxian Meng, Aijie Zhang, Chongguang Yang, Liqiong Zhou, **Yiqiang Zhan**\* .
 Association between Cytomegalovirus Infection and Cancer-related Mortality in US Adults.
-Cancer Epidemiology. 2023. 87:102487.
+**Cancer Epidemiology**. 2023. 87:102487.
 
 2. Yi Teng, Danqi Huang, Ruixi Li, Chao Yi, **Yiqiang Zhan**\* .
 Association between telomere length and risk of lung cancer in an Asian population: a Mendelian Randomization study.
-World Journal of Oncology 2023.14(4):277-284
+**World Journal of Oncology** 2023.14(4):277-284
 
 3. Huang H, Huang X, Liao J, Li Y, Su Y, Meng Y, **Yiqiang Zhan**\* .
 Sex-specific non-linear associations between body mass index and impaired pulmonary ventilation function in a community-based population: Longgang COPD study.
-Front Pharmacol 2023 Mar 9;14:1103573.
+**Front Pharmacol** 2023 Mar 9;14:1103573.
 
 4. Yanan Zhu, Yaxian Meng, Yasi Zhang, Ida K. Karlsson, Sara Hagg, **Yiqiang Zhan**\* .
 Genetically Determined Telomere Length and Its Association with Chronic Obstructive Pulmonary Disease and Interstitial Lung Disease in Biobank Japan: A Mendelian Randomization Study.
-Heliyon. 2023. 10(1):e23415
+**Heliyon**. 2023. 10(1):e23415
 
 5. Yasi Zhang, Yanan Zhu, Meijie Ye, Yong Mao, **Yiqiang Zhan**\* .
 Telomere length and its association with systemic lupus erythematosus in an Asian population: A Mendelian randomization study.
-Lupus. 2023.
+**Lupus**. 2023.
 
 #### 2022
 
@@ -156,7 +156,7 @@ Perceived Stress and Cardiovascular Disease in a Community-Based Population.
 3. Ruoqing Chen, **Yiqiang Zhan**\* . Telomere length and Parkinson's disease: A Mendelian randomization study. **Neurobiology of Aging**. 2020 July.
 
 4. **Yiqiang Zhan**\* , Mark Clements, Rosebud Roberts, Maria Vassilaki, Brooke Druliner, Lisa Boardman, Ronald Petersen, Chandra A. Reynolds, Nancy L Pedersen, Sara H"agg. Association of Telomere Length with General Cognitive Trajectories: a Meta-Analysis of Four Prospective Cohort Studies. **Neurobiology of Aging**, 2018, 69(9):111-116.
-<span style="color:red">（博士毕业论文的一部份）</span>
+<span style="color:red">（博士毕业论文的内容）</span>
 
 
 
