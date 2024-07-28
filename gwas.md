@@ -45,11 +45,11 @@ permalink: /papers/
 
 12. **Yiqiang Zhan**\*, Ida K Karlsson, Robert Karlsson, Annika Tillander, Chandra A Reynolds, Nancy L Pedersen, Sara Hagg.
     Exploring the Causal Pathway from Telomere Length to Coronary Heart Disease: A Network Mendelian Randomization Study. **Circulation Research**. 2017, 121(3):214-219.
-    <span style="color:red">（博士毕业论文的一内容）</span>
+    <span style="color:red">（博士毕业论文的内容）</span>
 
 13. **Yiqiang Zhan**\*, Ci Song, Robert Karlsson, Annika Tillander, Chandra A. Reynolds, Nancy L. Pedersen, Sara Hagg.
     Telomere length shortening and Alzheimer's disease: A Mendelian Randomization study.  **JAMA Neurology**. 2015,72(10):1202-1203.
-    <span style="color:red">（博士毕业论文的一内容）</span>
+    <span style="color:red">（博士毕业论文的内容）</span>
 
 #### 2024
 
