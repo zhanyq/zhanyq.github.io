@@ -15,7 +15,7 @@ permalink: /papers/
    **BMJ Mental Health**. 2024. doi: 10.1136/bmjment-2024-301064
 
 3. Yu Wang, Meijie Ye, Qianqian Ji, Qi Liu, Xiaowei Xu, **Yiqiang Zhan**\*.
-   The Longitudinal Trajectory of CSF sTREM2: the Alzheimer’s Disease Neuroimaging Initiative
+   The Longitudinal Trajectory of CSF sTREM2: the Alzheimer’s Disease Neuroimaging Initiative.
    **Alzheimer's Research & Therapy**. 2024. 26;16(1):138.
 
 4. Yu Wang, Meijie Ye, Qianqian Ji, Qi Liu, Xiaowei Xu, **Yiqiang Zhan**\*.
@@ -38,7 +38,7 @@ permalink: /papers/
 9. **Yiqiang Zhan**\*, Fang Fang. Smoking and Amyotrophic lateral sclerosis: A Mendelian Randomization Study. 
    **Annals of Neurology**. 2019. 85 (4), 482-484.
 
-10. **Yiqiang Zhan**\*, Xing-rong Liu, Chandra A. Reynolds, Nancy L Pedersen, Sara Hagg, Mark Clements.
+10. **Yiqiang Zhan**\*, XR Liu, CA. Reynolds, NL Pedersen, S Hagg, MS Clements.
     Telomere Length and All-cause Mortality: A Between-within Twin Analysis using Generalised Survival Model. 
     **American Journal of Epidemiology**. 2018;187(10):2186-2191.
     <span style="color:red">（博士毕业论文的一部份）</span>
