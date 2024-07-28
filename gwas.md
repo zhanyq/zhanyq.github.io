@@ -41,12 +41,15 @@ permalink: /papers/
 10. **Yiqiang Zhan**\*, Xing-rong Liu, Chandra A. Reynolds, Nancy L Pedersen, Sara Hagg, Mark Clements.
     Telomere Length and All-cause Mortality: A Between-within Twin Analysis using Generalised Survival Model. 
     **American Journal of Epidemiology**. 2018;187(10):2186-2191.
+    <span style="color:red">（博士毕业论文的一部份）</span>
 
-11. **Yiqiang Zhan**\*, Ida K Karlsson, Robert Karlsson, Annika Tillander, Chandra A Reynolds, Nancy L Pedersen, Sara Hagg.
+12. **Yiqiang Zhan**\*, Ida K Karlsson, Robert Karlsson, Annika Tillander, Chandra A Reynolds, Nancy L Pedersen, Sara Hagg.
     Exploring the Causal Pathway from Telomere Length to Coronary Heart Disease: A Network Mendelian Randomization Study. **Circulation Research**. 2017, 121(3):214-219.
+    <span style="color:red">（博士毕业论文的一部份）</span>
 
-12. **Yiqiang Zhan**\*, Ci Song, Robert Karlsson, Annika Tillander, Chandra A. Reynolds, Nancy L. Pedersen, Sara Hagg.
+13. **Yiqiang Zhan**\*, Ci Song, Robert Karlsson, Annika Tillander, Chandra A. Reynolds, Nancy L. Pedersen, Sara Hagg.
     Telomere length shortening and Alzheimer's disease: A Mendelian Randomization study.  **JAMA Neurology**. 2015,72(10):1202-1203.
+    <span style="color:red">（博士毕业论文的一部份）</span>
 
 #### 2024
 
@@ -153,6 +156,7 @@ Perceived Stress and Cardiovascular Disease in a Community-Based Population.
 3. Ruoqing Chen, **Yiqiang Zhan**\* . Telomere length and Parkinson's disease: A Mendelian randomization study. **Neurobiology of Aging**. 2020 July.
 
 4. **Yiqiang Zhan**\* , Mark Clements, Rosebud Roberts, Maria Vassilaki, Brooke Druliner, Lisa Boardman, Ronald Petersen, Chandra A. Reynolds, Nancy L Pedersen, Sara H"agg. Association of Telomere Length with General Cognitive Trajectories: a Meta-Analysis of Four Prospective Cohort Studies. **Neurobiology of Aging**, 2018, 69(9):111-116.
+<span style="color:red">（博士毕业论文的一部份）</span>
 
 
 
