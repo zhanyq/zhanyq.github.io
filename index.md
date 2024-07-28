@@ -5,6 +5,10 @@
 layout: page
 ---
 
-Our NeuroEpiLab are working on the epidemiology of neuropsychiatric disorders: **Cognitive decline, Alzheimer's disease, Parkinson's diseases, Mental Health**.
+Our NeuroEpiLab are working on the epidemiology of neuropsychiatric disorders: **Cognitive Function, Alzheimer's disease, Parkinson's diseases, Mental Health, etc**.
+
+Keywords: NeuroEpidemiology, Aging, Geriatric Epidemiology, Survival Analysis, Genetic Epidemiology
+
+Contact: zhanyq8@mail.sysu.edu.cn
 
 
