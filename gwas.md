@@ -6,8 +6,6 @@ permalink: /papers/
 
 ## 代表性论文
 
-以下是移除了LaTeX代码后的文献列表：
-
 1. Qianqian Ji, Jingqi Chen, Yafei Li, Enxiang Tao, **Yiqiang Zhan**.
    Incidence and Prevalence of Alzheimer’s Disease in China: A Systematic Review and Meta-analysis.
    **European Journal Epidemiology**. 2024. doi: 10.1007/s10654-024-01144-2
