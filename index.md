@@ -11,7 +11,7 @@ Keywords: **NeuroEpidemiology, Aging, Geriatric Epidemiology, Survival Analysis,
 
 Contact: **zhanyq8@mail.sysu.edu.cn**
 
-####  News 
+####  <span style="color:#F85634">News</span>
 
 * 2024年7月，博士生Qianqian Ji关于全国阿尔兹海默病流行情况的论文被流行病学的顶刊**European Journal of Epidemiology**（IF=7.7，5年IF=9.8）接收
 
@@ -20,7 +20,5 @@ Contact: **zhanyq8@mail.sysu.edu.cn**
 * 2024年5月，硕士生Yu Wang关于阿尔兹海默症的论文被神经病领域的杂志**Alzheimer's Rearch & Therapy**（IF=7.9，5年IF=8.3）和**Journal of Prevention of Alzheimer's Disease**（IF=8.5，5年IF=6.9）接收
 
 * 2024年3月，本科生Zhuochang Bi关于神经丝轻链顶论文被**Science of the Total Environment** (IF=8.2, 5年IF=8.3)接收
-
-* <span style="color:red">这段文字将是红色的</span>
 
 
