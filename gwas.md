@@ -155,8 +155,19 @@ Perceived Stress and Cardiovascular Disease in a Community-Based Population.
 
 3. Ruoqing Chen, **Yiqiang Zhan**\* . Telomere length and Parkinson's disease: A Mendelian randomization study. **Neurobiology of Aging**. 2020 July.
 
-4. **Yiqiang Zhan**\* , Mark Clements, Rosebud Roberts, Maria Vassilaki, Brooke Druliner, Lisa Boardman, Ronald Petersen, Chandra A. Reynolds, Nancy L Pedersen, Sara H"agg. Association of Telomere Length with General Cognitive Trajectories: a Meta-Analysis of Four Prospective Cohort Studies. **Neurobiology of Aging**, 2018, 69(9):111-116.
+4. Ruoqing Chen, **Yiqiang Zhan**\* , Nancy L. Pedersen, Katja Fall, Unnur Valdimarsdottir, Sara Hagg, Fang Fang. Marital Status, Telomere Length, and Cardiovascular Disease Risk: a Prospective Cohort Study in Sweden. **Heart**. 2020;106:267-272. 
+
+5. **Yiqiang Zhan**\* , Mark Clements, Rosebud Roberts, Maria Vassilaki, Brooke Druliner, Lisa Boardman, Ronald Petersen, Chandra A. Reynolds, Nancy L Pedersen, Sara H"agg. Association of Telomere Length with General Cognitive Trajectories: a Meta-Analysis of Four Prospective Cohort Studies. **Neurobiology of Aging**, 2018, 69(9):111-116.
 <span style="color:red">（博士毕业论文的内容）</span>
+
+6.  **Yiqiang Zhan**, Stefanie Samietz,Birte Holtfreter, Anke Hannemann, Peter Meisel, Matthias Nauck, Henry Voelzke, Henri Wallaschofski, Thomas Dietrich, Thomas Kocher.
+    Prospective study of serum 25-hydroxy vitamin D and tooth loss. **Journal of Dental Research**. 2014,93(7):639-644.
+
+7.  **Yiqiang Zhan**, Birte Holtfreter, Peter Meisel, Thomas Hoffmann, Wolfgang Micheelis, Thomas Dietrich, Thomas Kocher. Prediction of periodontal disease: modeling and validating in different general German populations. **Journal of Clinical Periodontology**, 2014,41(3):224-231.
+
+8.  **Yiqiang Zhan**, Yu Jinming, Chen Ruoqing, et al.. Prevalence of low ankle brachial index and its association with pulse pressure in an elderly Chinese population: A cross-sectional study. **Journal of Epidemiology**, 2012, 22(5):454-461.
+
+
 
 
 
