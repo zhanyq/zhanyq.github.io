@@ -4,7 +4,7 @@ title: Publications 论文
 permalink: /papers/
 ---
 
-#### 代表性论文 Selected Publications
+> #### 代表性论文 Selected Publications
 
 1. Qianqian Ji, Jingqi Chen, Yafei Li, Enxiang Tao, **Yiqiang Zhan**\*.
    Incidence and Prevalence of Alzheimer’s Disease in China: A Systematic Review and Meta-analysis.
@@ -51,7 +51,7 @@ permalink: /papers/
     Telomere length shortening and Alzheimer's disease: A Mendelian Randomization study.  **JAMA Neurology**. 2015,72(10):1202-1203.
     <span style="color:red">（博士毕业论文的内容）</span>
 
-#### 2024
+> #### 2024
 
 14. Xiaoping Huang, Yaxian Meng, Xinyi Hu, Aijie Zhang, Qianqian Ji, Zhirou Liang, Fang Fang, **Yiqiang Zhan**\*.
 Association between Cytomegalovirus Seropositivity and All-Cause Mortality: An Original Cohort Study.
@@ -107,7 +107,7 @@ Assessing and Projecting the Global Burden of Thyroid Cancer, 1990-2030: Analysi
 
 27. Yaxian Meng, Qianqian Ji, Aijie Zhang, **Yiqiang Zhan**\*. Trends in the prevalence and incidence of chronic obstructive pulmonary disease among adults aged ≥ 50 years in the United States, 2000-2020. **Chronic Diseases and Translational Medicine**. 2024.
 
-#### 2023
+> #### 2023
 
 1. Xiaoping Huang, Chao Yi, Qianqian Ji, Yaxian Meng, Aijie Zhang, Chongguang Yang, Liqiong Zhou, **Yiqiang Zhan**\* .
 Association between Cytomegalovirus Infection and Cancer-related Mortality in US Adults.
@@ -129,7 +129,7 @@ Genetically Determined Telomere Length and Its Association with Chronic Obstruct
 Telomere length and its association with systemic lupus erythematosus in an Asian population: A Mendelian randomization study.
 **Lupus**. 2023.
 
-#### 2022
+> #### 2022
 
 1. Yuxia Wei, **Yiqiang Zhan**\* , Tuomi Tiinamaija, Josefin Edwall Lofvenborg, Sofia Carlsson. Birth weight, BMI in adulthood and latent autoimmune diabetes in adults: A Mendelian randomization study. **Diabetologia** 2022. 65(9):1510-1518.
 
@@ -147,7 +147,7 @@ Perceived Stress and Cardiovascular Disease in a Community-Based Population.
 
 6. Sara Hagg, **Yiqiang Zhan**\* . Telomere research entering the big data era. **Nat Aging** 2022.
 
-#### 2012-2021 部分论文
+> #### 2012-2021 部分论文
 
 1. J Sieurin,**Yiqiang Zhan**\* , N Pedersen, K Wirdefeldt. Neuroticism, smoking and the risk of Parkinson's disease. **Journal of Parkinson's Disease** 2021.
 
