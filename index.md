@@ -13,6 +13,8 @@ Contact: **zhanyq8@mail.sysu.edu.cn**
 
 ####  <span style="color:#F85634">News 动态 </span>
 
+* 2024年9月，硕士生Aijie Zhang在**BMJ Mental Health**关于心理韧性的论文被英国卫报等欧美地区50多家媒体报道
+
 * 2024年7月，博士生Qianqian Ji关于全国阿尔兹海默病流行情况的论文被流行病学的顶刊**European Journal of Epidemiology**（IF=7.7，5年IF=9.8）接收
 
 * 2024年7月，硕士生Xiaogang Lv关于脂肪酸和神经丝轻链的论文被美国营养学会会刊**Journal of Nutrition**(IF=3.7, 5年IF=4.3)接收
