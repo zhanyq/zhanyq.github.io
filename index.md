@@ -13,6 +13,10 @@ Contact: **zhanyq8@mail.sysu.edu.cn**
 
 ####  <span style="color:#F85634">News 动态 </span>
 
+* 2024年12月，博士生Meijie Ye关于帕金森病的论文被American Oil Chemists’ Society (AOCS)的官方期刊**Lipids**接收
+
+* 2024年12月，硕士生Yaxian Meng关于COPD的论文在**BMJ Open Respiratory Research**发表
+
 * 2024年9月，硕士生Aijie Zhang在**BMJ Mental Health**关于心理韧性的论文被英国卫报等欧美地区50多家媒体报道
 
 * 2024年7月，博士生Qianqian Ji关于全国阿尔兹海默病流行情况的论文被流行病学的顶刊**European Journal of Epidemiology**（IF=7.7，5年IF=9.8）接收
