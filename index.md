@@ -13,7 +13,9 @@ Contact: **zhanyq8@mail.sysu.edu.cn**
 
 ####  <span style="color:#F85634">News 动态 </span>
 
-* 2024年12月，博士生Meijie Ye关于帕金森病的论文被American Oil Chemists’ Society (AOCS)的官方期刊**Lipids**接收
+* 2024年12月，博士后Liqiong Zhou关于精神卫生的研究论文被**PLoS Mental Health**接收
+
+* 2024年12月，博士生Meijie Ye关于帕金森病的论文被**American Oil Chemists’ Society (AOCS)** 的官方期刊 **Lipids**接收
 
 * 2024年12月，硕士生Yaxian Meng关于COPD的论文在**BMJ Open Respiratory Research**发表
 
