@@ -14,6 +14,7 @@ permalink: /links/
 * [Statistics for Genomic Data Science](http://jtleek.com/genstats_site/)
 * [Biostatistics III - Survival Analysis](http://biostat3.net/index.html)
 * [HSPH Epi511 - Advanced Population and Medical Genetics](https://data.broadinstitute.org/alkesgroup/EPI511/)
+* [关于生存分析的R包（包括机器学习的生存分析）](https://cran.r-project.org/web/views/Survival.html)
 
 ## Bioinformatics
 
