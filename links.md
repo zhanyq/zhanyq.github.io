@@ -5,7 +5,7 @@ permalink: /links/
 ---
 
 ## 数据库
-* [PD:Fox Insight] (https://foxinsight-info.michaeljfox.org/insight/explore/insight.jsp)
+* [PD:Fox Insight](https://foxinsight-info.michaeljfox.org/insight/explore/insight.jsp)
 * PPMI
 * ADNI
 * NHANES
