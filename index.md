@@ -13,7 +13,9 @@ Contact: **zhanyq8@mail.sysu.edu.cn**
 
 ####  <span style="color:#F85634">News 动态 </span>
 
-* 2025年1月，博士后Zhao Hu关于social isolation的论文被**Public Health**接收
+* 2025年1月，Jiaman Liao关于“微信医学信息传播账号科普文章阅读量”的论文在**Journal of Medical Internet Research**发表
+
+* 2025年1月，博士后Zhao Hu关于Loneliness的论文在**Public Health**发表
 
 * 2025年1月，博士后Liqiong Zhou关于精神卫生的研究论文被**PLoS Mental Health**发表
 
