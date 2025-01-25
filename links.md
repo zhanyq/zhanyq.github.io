@@ -5,7 +5,7 @@ permalink: /links/
 ---
 ## AD相关组学数据
 * 尿液代谢组学数据：62CN+57AD+43MCI，论文原文https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2023.1273807/full，数据National Genomics Data Center (NGDC) OMIX database (OMIX ID: OMIX005414, https://ngdc.cncb.ac.cn/omix/release/OMIX005414) 或者 https://www.ebi.ac.uk/metabolights/editor/MTBLS8662；毕业论文（基于尿液蛋白组学、 代谢组学的阿尔茨海默病与轻度认知障碍的生物标志物探究）
-
+* 尿液蛋白质组学数据：同上。https://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD044672
 
 ## 数据库
 * [PD:Fox Insight](https://foxinsight-info.michaeljfox.org/insight/explore/insight.jsp)
