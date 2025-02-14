@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Blog-test
+title: 例子
 permalink: /blog/
 ---
-Welcome to my blog! Here are my latest posts:
+Here are my latest posts:
