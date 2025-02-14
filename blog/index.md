@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Blog
+title: Blog-Index
 permalink: /blog/
 ---
 Welcome to my blog!
