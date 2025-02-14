@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 例子
+title: "Notes & Examples"
 permalink: /blog/
 ---
 
