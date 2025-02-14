@@ -1,5 +1,5 @@
 ---
 layout: home
-title: News
+title: Home
 ---
 Welcome!
