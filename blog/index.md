@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Blog
+title: Blog-test
 permalink: /blog/
 ---
 Welcome to my blog! Here are my latest posts:
