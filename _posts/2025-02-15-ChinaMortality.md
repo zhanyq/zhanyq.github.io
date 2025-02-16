@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mortality Rate in China 我国人口死亡率分析的相关问题"
+title: "我国人口死亡率分析的相关问题 Mortality Rate in China"
 date: 2025-02-15
 ---
 
