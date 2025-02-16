@@ -10,7 +10,7 @@ date: 2025-02-15
 联合国2024年世界人口展望(World Population Prospects 2024)发布了一系列国际数据，其中有我国历年来的寿命表数据，下载地址为[here](https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format)
 
 
-稍微整理了一下，结果如下图所示。
+稍微整理了一下，结果如下图所示(/figures/mortalityRate2016-2023.png)。
 
 ```{Stata}
 * Define the years you want to plot
