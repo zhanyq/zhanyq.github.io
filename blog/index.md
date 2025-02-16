@@ -4,4 +4,4 @@ title: "Notes & Examples"
 permalink: /blog/
 ---
 
-这里是一些常用统计分析的代码R示例。
+这里主要是个人的一些想法以及常用统计分析的代码**R/Stata**示例。
