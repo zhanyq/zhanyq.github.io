@@ -7,10 +7,12 @@ date: 2025-02-15
 生存分析是发现死亡率的关键，既往的研究表明我国人口普查中（比如历次人口普查数据）中，低龄人口（0-5岁）和高龄人口（60岁以上）死亡漏报现象比较突出。
 最近的一篇文章分析了第七次全国人口普查的资料，很不错[here](/documents/第七次人口普查数据死亡水平估计.pdf)。可以在此文的基础上再进一步的分析。
 
+世界死亡数据库有很多数据（https://www.mortality.org/Data/DataAvailability），PNAS的一篇论文分析了其中部分资料（https://github.com/CPop-SDU/sex-gap-e0-pnas）。
+
 联合国2024年世界人口展望(World Population Prospects 2024)发布了一系列国际数据，其中有我国历年来的寿命表数据，下载地址为[here](https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format)
 
 
-稍微整理了一下，结果如下图所示![图1](/figures/mortalityRate2016-2023.png)。
+稍微整理了一下，结果如下图所示![图1](/figures/mortalityRate2016-2023.png)
 
 ```{Stata}
 * Define the years you want to plot
