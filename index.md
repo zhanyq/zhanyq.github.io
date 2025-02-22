@@ -11,7 +11,7 @@ Contact: **zhanyq8@mail.sysu.edu.cn**
 
 ####  <span style="color:#F85634">News 动态 </span>
 
-* 2025年2月，博士生Yue Xu关于neurofilament的论文被American College of Occupational and Environmental Medicine学会的官方杂志**Journal of Occupational and Environmental Medicine**接收
+* 2025年2月，博士生Yue Xu关于神经丝轻链的论文被**American College of Occupational and Environmental Medicine**学会官方杂志**Journal of Occupational and Environmental Medicine**接收
 
 * 2025年1月，Jiaman Liao关于“微信医学信息传播账号科普文章阅读量”的论文在**Journal of Medical Internet Research**发表
 
