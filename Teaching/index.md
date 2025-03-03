@@ -12,8 +12,9 @@ permalink: /teaching/
 
 **Lecture 2: 混杂的定义以及识别:** [第2节](/documents/Lec2_混杂因素的定义和识别.pdf)
 
-**Lecture 3: 随机对照临床试验与因果推断:**
+**Lecture 3: 随机对照临床试验与因果推断:** [第3节](/documents/Lec3_随机对照临床试验RCT.pdf)
 
+**Lecture 4: 多重回归:** 
 
 ## <span style="color:#F85634"> 生存分析 Survival Analysis  </span>
 本课程尚在计划当中，开课时间待定。
