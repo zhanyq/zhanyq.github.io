@@ -4,6 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
+**千百年来，教育家总结的经验至今仍然适用，未来也依然适用：**
+**有教无类、因材施教**
+**寓教于乐、教学相长**
+**学以致用、学而时习**
+**循序渐进、持之以恒**
 
 ## <span style="color:#F85634"> 流行病学研究中的因果推断技术 Causal Inference in Epidemiology  </span>
 本课程于2025年春季学期首次开课，共36个学时的理论课。
