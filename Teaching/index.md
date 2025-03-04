@@ -19,7 +19,7 @@ permalink: /teaching/
 
 **Lecture 1: 流行病学与因果推断:** [第0节](/documents/Lec1_流行病学简史_20250224.pdf), [第1节](/documents/Lec1_流行病学与因果推断.pdf)
 
-**Lecture 2: 混杂的定义以及识别:** [第2节](/documents/Lec2_混杂因素的定义和识别.pdf)
+**Lecture 2: 混杂的定义以及识别:** [第2节](/documents/Lec2_混杂因素的定义与识别.pdf)
 
 **Lecture 3: 随机对照临床试验与因果推断:** [第3节](/documents/Lec3_随机对照临床试验RCT.pdf)
 
