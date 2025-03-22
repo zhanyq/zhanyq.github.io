@@ -26,9 +26,13 @@ permalink: /teaching/
 **Lecture 4: 多重回归:** 
 
 **Lecutre 5: 工具变量方法**
+
 **Lecutre 6: 孟德尔随机化方法**
+
 **Lecutre 7: 倾向性评分方法**
+
 **Lecutre 8: 双重差分方法**
+
 **Lecutre 9: 断点回归方法** https://rdpackages.github.io/
 
 ## <span style="color:#F85634"> 生存分析 Survival Analysis  </span>
