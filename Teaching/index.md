@@ -33,7 +33,7 @@ permalink: /teaching/
 
 **Lecutre 8: 双重差分方法**
 
-**Lecutre 9: 断点回归方法** https://rdpackages.github.io/
+**Lecutre 9: 断点回归方法** https://rdpackages.github.io/ PMID: 34981591
 
 ## <span style="color:#F85634"> 生存分析 Survival Analysis  </span>
 本课程尚在计划当中，开课时间待定。
